@@ -13,7 +13,7 @@ Aplicar técnicas de visualização e estatística descritiva para gerar insight
 
 🛠️ Ferramentas utilizadas:
 
-Python (Pandas, Matplotlib, Seaborn)
+Python (Pandas, Matplotlib, Numpy)
 
 Jupyter Notebook
 
